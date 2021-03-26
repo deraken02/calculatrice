@@ -35,6 +35,7 @@ Chaque version a son propre Makefile il suffit de taper la commande make dans la
 Il ne reste plus qu'à ecrire le calcule.
 
 Exemple:
+On veut réaliser l'opération suivante (((1+2)*3)/9)-1
  ~./calc
 1 2 + 3 * 9 / 1 -
 0
